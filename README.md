@@ -1,4 +1,9 @@
-Our engineering team has already drawn the Mark 7 as-built and we are open sourcing those designs. 
-We plan to ship improved units by June 1, 2020. With your help, this is possible.
-Friends from National Strategic Research Institute (NSRI) and UC Davis started their restless efforts to find fundings and tech supports 
-for the project.
+Early in the Covid-19 pandemic, David Fergenson of Livermore Instruments Inc., a small Bay Area mass spectrometer manufacturer, responded to the ventilator crisis. After consulting with experts on three continents, David realized that the most expedient way to meet the global demand for ventilators was to create an open source Bird Mark 7 (Mark 7) with an updated design to add modern safety features and streamline it for mass production.
+
+On March 20, 2020, an old Mark 7 arrived and a couple young engineers, Mike Kjelson and Dietrich Nordmeyer from Energy Recovery Inc. along with Chenise Leveriza of DevonWay, volunteered their after work hours and weekends to bring this project online with one goal in mind: to save lives. With their dedication,and with the sacrifices made by their families, cat and dog, they produced this STEP file of an as-built Bird Mark 7 in 11 days.
+
+Friends from National Strategic Research Institute (NSRI) and UC Davis started their relentless efforts to find funding and technological support for the project. Autodesk provided collaborative CAD software for us to work with. A call from a stranger, Alex Ivzorski, brought in help from 3D Systems who, along with Waygate Technologies, performed the 3D metrology of the manifold.
+
+There are critical design updates needed on the original Mark 7 to make it meet modern day safety concerns and be mass producible. These original design models are just a beginning.  With more work ahead we know we can make the “Mark-19,” a low cost and low maintenance ventilator suitable for various disasters domestically and abroad to make sure that this is humanity’s last ventilator crisis.
+
+DISCLAIMER: These models are not intended for direct reproduction but to assist with maintenance on the existing Mark 7 fleet and to inspire other designers. The work was done by volunteers from different organizations working in their spare time for humanitarian purposes and does not represent the opinions of their employers or their affiliate organizations.
